@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The python world",
+        "author": "Sumaira shakeel",
+        "year": "2025",
+        "genre": "programming language",
+        "read": false
+    },
+    {
+        "title": "A raining day",
+        "author": "saim saif",
+        "year": "20211",
+        "genre": "a light story",
+        "read": true
+    }
+]
